@@ -21,7 +21,7 @@ My process:
 # TASK 4 : Getting familiar with command line
 Ubuntu is a popular and user-friendly operating system based on Linux, known for being 
 open-source, free to use, modify, and distribute. While it comes with a graphical user 
-interface,(GUI) it is equally powerful for developers and experienced users who prefer working 
+interface (GUI) it is equally powerful for developers and experienced users who prefer working 
 through the command line. The terminal allows direct interaction with the operating system 
 through text-based commands, making tasks like file management, automation, and system 
 configuration faster and more efficient.
@@ -101,7 +101,7 @@ and visualization in Python.
 
 I went through the provided tutorial videos and the NumPy learning document to get familiar 
 with array operations such as reshaping, slicing, flipping, and transposing before 
-attempting the puzzle. Opened Google collab Notebook and worked through the matrix puzzle 
+attempting the puzzle. Opened Google Colab Notebook and worked through the matrix puzzle 
 with the following steps:
 
 1. Installed and imported the NumPy and Matplotlib libraries
@@ -152,7 +152,7 @@ Key concepts involved:
  
  ***What exactly is  H-bridge?***
 
-H-bridge is a circuit that contains 4 transistors that acts as switched and two switches close simultanously to decide the direction of the motor spin. **Click the image to view the simulation**
+H-bridge is a circuit that contains 4 transistors that acts as switches and two switches close simultaneously to decide the direction of the motor spin. **Click the image to view the simulation**
 
  [![alt text](images/IMG_20260227_145506.jpg)](https://drive.google.com/file/d/145kc0o0OgpnAQPuUvbYlA0eLYkSc7Sqd/view?usp=sharing)
 
@@ -182,7 +182,7 @@ Soldering is the process of joining electronic components together by melting a 
  In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board. I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.![alt text](<images/WhatsApp Image 2026-02-25 at 20.47.14.jpeg>)
 
  # TASK 14: Karnaugh Maps and Deriving the logic circuit
- K-Maps are used to simplify and derive logic circuits. When a long expression of logic circuits of n combination odvariables are given, we can easily simplify the circuit and obtain the output. K-Maps are simplified by grouping terms into two or forming octets or quads.
+ K-Maps are used to simplify and derive logic circuits. When a long expression of logic circuits of n combination of variables are given, we can easily simplify the circuit and obtain the output. K-Maps are simplified by grouping terms into two or forming octets or quads.
 
 I designed my burglar alarm system using two inputs: door status and key status. Here, 1 represents door open and key pressed, while 0 represents door closed and key not pressed. From the K-map, I found that the output is 1 only when D = 1 and K = 0, giving the simplified expression D·K̅. Basically the alarm rings when the door is open without the use of the correct key.   **Click the image to view the simulation**
 [![alt text](<images/ChatGPT Image Mar 14, 2026, 05_06_39 PM.png>)](https://drive.google.com/file/d/1LIGf9QMaHpoE4A1JYLNUeHRckuxLXMoD/view?usp=sharing)
@@ -211,7 +211,7 @@ the Sad Servers platform and began exploring the directory structure using `ls` 
 to navigate through the available files and folders. Used `cat` to read through clue files 
 and gather the initial hints laid out in the mystery. Filtered through large log files using 
 `grep` to search for specific keywords and narrow down relevant information. Pieced together all the evidence gathered to successfully identify the 
-perpetrator named "Joe Germuska" and echoed the name as the solution to make the server happy.
+perpetrator's name and echoed the name as the solution to make the server happy.
 ![alt text](<images/Screenshot 2026-02-28 130737.png>)
 
 # Task 20 : Notebook Ninja – Getting Started with Jupyter
