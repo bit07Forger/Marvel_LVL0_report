@@ -152,7 +152,7 @@ Key concepts involved:
  
  ***What exactly is  H-bridge?***
 
-H-bridge is a circuit that contains 4 transistors that acts as switched and two switches close simultanously to decide the direction of the motor spin.
+H-bridge is a circuit that contains 4 transistors that acts as switched and two switches close simultanously to decide the direction of the motor spin. **Click the image to view the simulation**
 
  [![alt text](images/IMG_20260227_145506.jpg)](https://drive.google.com/file/d/145kc0o0OgpnAQPuUvbYlA0eLYkSc7Sqd/view?usp=sharing)
 
@@ -172,11 +172,11 @@ web server. Visiting this IP address from a browser serves a dynamically generat
 with a toggle button. When clicked, the browser sends an HTTP GET request to the ESP32 which 
 reads it, switches the GPIO pin HIGH or LOW to control the LED, and sends back an updated 
 page reflecting the new state. Successfully verified the LED could be toggled wirelessly in 
-real time from a browser.
+real time from a browser. 
 
 ![alt text](<images/Screenshot 2026-02-25 143917.png>)
 [![alt text](images/IMG_20260225_144417.jpg)](https://drive.google.com/file/d/1L9ST2idUkuW6nH7Bx6JEy4cqVGquDGVp/view?usp=sharing)
-
+**Click the image to view the simulation**
 # TASK 12 : Solder Prerequistes
 Soldering is the process of joining electronic components together by melting a metal alloy called solder around the connection points. This creates a permanent electrical and mechanical bond between parts, which can also be reversed using de-soldering techniques when needed.
  In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board. I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.![alt text](<images/WhatsApp Image 2026-02-25 at 20.47.14.jpeg>)
