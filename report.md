@@ -197,7 +197,7 @@ a single chip. [Report](https://github.com/bit07Forger/Marvel_LVL0_report/blob/m
 
 # TASK 17 : Introduction to VR
 Virtual Reality is a technology that puts you inside a simulated 3D environment, 
-making you feel like you are somewhere you are not. [Report on VR]()
+making you feel like you are somewhere you are not. [Report on VR](https://github.com/bit07Forger/Marvel_LVL0_report/blob/main/intro_to_vr.md)
 
 # TASK 18 : Sad Servers  "Like LeetCode for Linux"
 
