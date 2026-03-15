@@ -195,6 +195,10 @@ reversing current flow, and PWM, which controls speed by switching power on and 
 rapidly. Putting both together is what gives the IC full control over two motors from 
 a single chip. [Report](https://github.com/bit07Forger/Marvel_LVL0_report/blob/main/datasheet_report.md)
 
+# TASK 17 : Introduction to VR
+Virtual Reality is a technology that puts you inside a simulated 3D environment, 
+making you feel like you are somewhere you are not. [Report on VR]()
+
 # TASK 18 : Sad Servers  "Like LeetCode for Linux"
 
  The [Command Line Murders](https://sadservers.com/scenario/command-line-murders) 
