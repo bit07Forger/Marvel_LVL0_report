@@ -211,7 +211,7 @@ perpetrator named "Joe Germuska" and echoed the name as the solution to make the
 ![alt text](<images/Screenshot 2026-02-28 130737.png>)
 
 # Task 20 : Notebook Ninja – Getting Started with Jupyter
-Jupyter Notebook lets you write code, take notes, and show charts without jumping between different files. I put together a notebook that mixed Markdown and Python — structured with an intro, some objectives, and a summary at the end. Bullet points and formatted text kept it from looking like a wall of code. On the Python side, I made a line graph displaying monthly sales in different months.  [My Jupyter Notebook]()
+Jupyter Notebook lets you write code, take notes, and show charts without jumping between different files. I put together a notebook that mixed Markdown and Python — structured with an intro, some objectives, and a summary at the end. Bullet points and formatted text kept it from looking like a wall of code. On the Python side, I made a line graph displaying monthly sales in different months.  [My Jupyter Notebook](https://github.com/bit07Forger/Marvel_LVL0_report/blob/main/notebooks_Intro%20(2).ipynb)
 
 # Task 21 : Watch and Reflect - Intro to Machine Learning
 
