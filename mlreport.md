@@ -12,19 +12,19 @@ At its core, Machine Learning is about making predictions and classifications by
 patterns from data. A simple example from the video illustrates this using a 
 **Decision Tree** — a model that asks a series of yes/no questions to arrive at a 
 conclusion, much like how we naturally make decisions in everyday life.
-![alt text](<Screenshot 2026-03-14 104309.png>)
+![alt text](<images/Screenshot 2026-03-14 104309.png>)
 ## Training vs Testing Data
 
 Another example from the video involves data showing that people who eat more yams tend 
 to run faster in a 100-meter dash. Two lines are drawn to fit this data:
-![alt text](<Screenshot 2026-03-14 121446.png>)
+![alt text](<images/Screenshot 2026-03-14 121446.png>)
 - A **black straight line** — simple and does not follow every data point closely
 - A **green squiggly line** — complex and bends to match every single data point perfectly
 
 At first glance the green line seems better since it fits the training data (red dots) 
 more closely. However, Machine Learning is not just about fitting existing data — it is 
 about making accurate predictions for new, unseen situations.
-![alt text](<Screenshot 2026-03-14 121500.png>)
+![alt text](<images/Screenshot 2026-03-14 121500.png>)
 When new testing data (blue dots) is introduced, the black line actually outperforms the 
 green line by predicting values more accurately. The green line, despite fitting the 
 training data perfectly, produced much larger prediction errors on the testing data. 
@@ -60,7 +60,7 @@ The AltexSoft video focused on something easy to overlook: data preparation. It 
 that preparing data is often more work than training the model itself. No matter how 
 powerful an algorithm is, if the data fed into it is messy or irrelevant, the results 
 will be poor.
-![alt text](<Screenshot 2026-03-14 111338.png>)
+![alt text](<images/Screenshot 2026-03-14 111338.png>)
 ## Data Collection
 
 A natural question that comes up early is — **how much data is actually enough?** The honest 
@@ -105,7 +105,7 @@ model training due to its larger numeric range. **Min-Max normalization** is a w
 used technique that compresses all values into a fixed range, ensuring every feature 
 contributes equally to the model's learning process
 consistent and compatible with the ML system being used.
-![alt text](<WhatsApp Image 2025-09-08 at 01.00.34.jpeg>)
+![alt text](<images/WhatsApp Image 2025-09-08 at 01.00.34.jpeg>)
 
 ## Feature Engineering
 In the given dataset you start making your own set of data by performing mathematical operations or concatenating two columns so that your sample space is extended.

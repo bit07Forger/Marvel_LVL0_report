@@ -11,7 +11,10 @@ actually needs.
 ## What is Inside the L293D
 
 The IC is built around a few key internal components that each do a specific job.
-![alt text](images.jpeg)
+
+
+![alt text](images/images.jpeg)
+
 
 **Power Transistors** act as electronic switches. The L293D has 8 of them, four 
 dedicated to each motor. They switch on and off rapidly to control how much current 
@@ -32,7 +35,8 @@ occurs and ESD protection guards against static discharge.
 The H-bridge is the part of the IC responsible for deciding which way the motor spins. 
 It uses four switches arranged around the motor in a shape that resembles the letter H.
 
-![alt text](1585313613715-h-bridge.gif)
+![alt text](images/1585313613715-h-bridge.gif)
+
 - **Forward rotation** — the top-left and bottom-right switches close, pushing current 
 through the motor in one direction and spinning it clockwise
 - **Reverse rotation** — the top-right and bottom-left switches close instead, 
