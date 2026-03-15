@@ -2,7 +2,7 @@
 
 An **API (Application Programming Interface)** is a set of rules and protocols that allows different software applications to communicate with each other. I implemented the **OpenWeather API** — a free, widely-used meteorological data service that provides real-time weather information by simply passing a city name or coordinates along with an API key — to build a live weather application using **HTML, CSS and JavaScript**.
 
-From the OpenWeather API, I fetch two types of data: first, **current weather conditions** such as temperature, humidity, wind speed and sky conditions for any city in the world, which I use to dynamically update the UI; and second, **location-based weather data** that maps a user's search query to real-time atmospheric readings pulled directly from weather stations across the globe.![alt text](<images/Screenshot 2026-02-28 100534.png>)![alt text](<images/Screenshot 2026-02-28 100550.png>)
+From the OpenWeather API, I fetch two types of data: first, **current weather conditions** such as temperature, humidity, wind speed and sky conditions for any city in the world, which I use to dynamically update the UI; and second, **location-based weather data** that maps a user's search query to real-time atmospheric readings pulled directly from weather stations across the globe.![](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-28%20100534.png?raw=true)![](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-28%20100550.png?raw=true)
 
 # TASK 3 : Working with Github
 
@@ -16,7 +16,7 @@ My process:
 * Opened a Pull Request from my new branch, comparing it against the original repository's main branch.
 * Reviewed the differences in the Pull Request and submitted it for review.
 * Explored GitHub Issues by reading existing ones and understanding how they are used to track tasks and bugs within a project.
-[link](https://github.com/bit07Forger/git-task)![alt text](<images/Screenshot 2026-02-28 103129.png>)![alt text](<images/Screenshot 2026-02-28 103218.png>)
+[link](https://github.com/bit07Forger/git-task)![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-28%20103129.png?raw=true)![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-28%20103218.png?raw=true)
 
 # TASK 4 : Getting familiar with command line
 Ubuntu is a popular and user-friendly operating system based on Linux, known for being 
@@ -50,7 +50,7 @@ echo "this is file one" > file1.txt
 echo "this is file two" > file2.txt
 cat file1.txt file2.txt
 ```
-![alt text](<images/Screenshot 2026-03-14 101528.png>)![alt text](<images/Screenshot 2026-03-14 101542.png>)
+![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-03-14%20101528.png?raw=true)![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-03-14%20101542.png?raw=true)
 
 # TASK 5 : Build your own Brain (Linear Regression)
 ## What is Linear Regression?
@@ -113,7 +113,7 @@ a recognizable structure
 5. Rotated the array by 90 degrees to correct its orientation and obtain the final image
 6. Used `matplotlib.pyplot.imshow()` to visualize and reveal the hidden image   [Click here to view the notebook](https://colab.research.google.com/drive/1jPIIZG69gxIJNbIUoHnwrZfHpPSZttSx#scrollTo=lDrpy7J9U3m3)
 
-![alt text](<images/Screenshot 2026-03-13 125448.png>)
+![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-03-13%20125448.png?raw=true)
 
 # TASK 8 : Markdown
 **Markdown** is a simple markup language for formatting text using basic syntax without complex editor, which can then be converted to structurally valid HTML. It works consistently across different devices and platforms. I learned how to write a markdown with  structured headings,body and embed images,video,gifs in the markdown and wrote a report on F1. [Article](https://github.com/bit07Forger/Marvel_LVL0_report/blob/main/f1.md)
@@ -134,7 +134,7 @@ Displayed the results on the serial monitor in real time.
 Following this, built a radar system by combining the ultrasonic sensor with a servo motor. 
 The servo motor rotates the sensor across a range of angles to cover a wider detection area, 
 while the ultrasonic sensor continuously measures the distance of any object within its 
-path. Successfully simulated both circuits on Tinkercad and verified the expected outputs.   [Click here to view the github repo](https://github.com/bit07Forger/ultrasonicsensor)![alt text](<images/Screenshot 2026-02-26 211552.png>)![alt text](<images/Screenshot 2026-02-26 211644.png>)
+path. Successfully simulated both circuits on Tinkercad and verified the expected outputs.   [Click here to view the github repo](https://github.com/bit07Forger/ultrasonicsensor)![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-26%20211552.png?raw=true)![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-26%20211644.png?raw=true)
 
 # TASK 10 : Speed Control of DC Motor
 
@@ -148,13 +148,13 @@ Key concepts involved:
 * PWM - Pulse Width Modulation helps with the speed control of the motor 
 * H-bridge - Allows for the control of the direction of the motor's rotation
 
-![alt text](images/1585313613715-h-bridge.gif)
+![alt text](https://github.com/bit07Forger/images/blob/main/image/1585313613715-h-bridge.gif?raw=true)
  
  ***What exactly is  H-bridge?***
 
 H-bridge is a circuit that contains 4 transistors that acts as switches and two switches close simultaneously to decide the direction of the motor spin. **Click the image to view the simulation**
 
- [![alt text](images/IMG_20260227_145506.jpg)](https://drive.google.com/file/d/145kc0o0OgpnAQPuUvbYlA0eLYkSc7Sqd/view?usp=sharing)
+ [![alt text](https://github.com/bit07Forger/images/blob/main/image/IMG_20260227_145506.jpg?raw=true)](https://drive.google.com/file/d/145kc0o0OgpnAQPuUvbYlA0eLYkSc7Sqd/view?usp=sharing)
 
 # TASK 11 : LED Toggle Using ESP32
 
@@ -174,18 +174,18 @@ reads it, switches the GPIO pin HIGH or LOW to control the LED, and sends back a
 page reflecting the new state. Successfully verified the LED could be toggled wirelessly in 
 real time from a browser. 
 
-![alt text](<images/Screenshot 2026-02-25 143917.png>)
-[![alt text](images/IMG_20260225_144417.jpg)](https://drive.google.com/file/d/1L9ST2idUkuW6nH7Bx6JEy4cqVGquDGVp/view?usp=sharing)
+![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-25%20143917.png?raw=true)
+[![alt text](https://github.com/bit07Forger/images/blob/main/image/IMG_20260225_144417.jpg?raw=true)](https://drive.google.com/file/d/1L9ST2idUkuW6nH7Bx6JEy4cqVGquDGVp/view?usp=sharing)
 **Click the image to view the simulation**
 # TASK 12 : Solder Prerequistes
 Soldering is the process of joining electronic components together by melting a metal alloy called solder around the connection points. This creates a permanent electrical and mechanical bond between parts, which can also be reversed using de-soldering techniques when needed.
- In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board. I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.![alt text](<images/WhatsApp Image 2026-02-25 at 20.47.14.jpeg>)
+ In the lab, I was introduced to the basic soldering equipment including the soldering iron, solder wire, flux, soldering wick, and the stand, along with the necessary safety precautions. Under the guidance of a coordinator, I practiced basic soldering on a perf board. I also learned how to desolder existing joints using a soldering wick and then resolder the components back in place.![alt text](https://github.com/bit07Forger/images/blob/main/image/WhatsApp%20Image%202026-02-25%20at%2020.47.14.jpeg?raw=true)
 
  # TASK 14: Karnaugh Maps and Deriving the logic circuit
  K-Maps are used to simplify and derive logic circuits. When a long expression of logic circuits of n combination of variables are given, we can easily simplify the circuit and obtain the output. K-Maps are simplified by grouping terms into two or forming octets or quads.
 
 I designed my burglar alarm system using two inputs: door status and key status. Here, 1 represents door open and key pressed, while 0 represents door closed and key not pressed. From the K-map, I found that the output is 1 only when D = 1 and K = 0, giving the simplified expression D·K̅. Basically the alarm rings when the door is open without the use of the correct key.   **Click the image to view the simulation**
-[![alt text](<images/ChatGPT Image Mar 14, 2026, 05_06_39 PM.png>)](https://drive.google.com/file/d/1LIGf9QMaHpoE4A1JYLNUeHRckuxLXMoD/view?usp=sharing)
+[![alt text](https://github.com/bit07Forger/images/blob/main/image/ChatGPT%20Image%20Mar%2014,%202026,%2005_06_39%20PM.png?raw=true)](https://drive.google.com/file/d/1LIGf9QMaHpoE4A1JYLNUeHRckuxLXMoD/view?usp=sharing)
 
 # TASK 16 : Datasheet report writing
 I went through the L293D datasheet and looked into how the IC is actually built — the 
@@ -212,7 +212,7 @@ to navigate through the available files and folders. Used `cat` to read through 
 and gather the initial hints laid out in the mystery. Filtered through large log files using 
 `grep` to search for specific keywords and narrow down relevant information. Pieced together all the evidence gathered to successfully identify the 
 perpetrator's name and echoed the name as the solution to make the server happy.
-![alt text](<images/Screenshot 2026-02-28 130737.png>)
+![alt text](https://github.com/bit07Forger/images/blob/main/image/Screenshot%202026-02-28%20130737.png?raw=true)
 
 # Task 20 : Notebook Ninja – Getting Started with Jupyter
 Jupyter Notebook lets you write code, take notes, and show charts without jumping between different files. I put together a notebook that mixed Markdown and Python — structured with an intro, some objectives, and a summary at the end. Bullet points and formatted text kept it from looking like a wall of code. On the Python side, I made a line graph displaying monthly sales in different months.  [My Jupyter Notebook](https://github.com/bit07Forger/Marvel_LVL0_report/blob/main/notebooks_Intro%20(2).ipynb)

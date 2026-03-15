@@ -98,7 +98,7 @@ Where:
 - $\hat{y}_i$ = predicted value for the $i^{th}$ data point
 
 
-MSE is also commonly used as the loss function *during* training, not just after.![alt text](images/losscurve.png)
+MSE is also commonly used as the loss function *during* training, not just after.![alt text](https://github.com/bit07Forger/images/blob/main/image/losscurve.png?raw=true)
 ---
 
 ### R² — Coefficient of Determination
